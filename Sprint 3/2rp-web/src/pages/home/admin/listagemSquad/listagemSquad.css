@@ -1,0 +1,78 @@
+.background{
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 15px;
+    height: 82%;
+    background-color: #080622;
+}
+
+.filtro{
+    width: 20%;
+}
+
+.filtroSquad{
+    margin-left: 12%;
+}
+
+.font{
+    background-color: white;
+    color: gray;
+}
+
+.table-squad{
+    background-color: #324038;
+    margin-left: 12%;
+    margin-right: 12%;
+    height: 75%;
+}
+
+.upper-table{
+    background-color: white;
+    height: 10%;
+}
+
+.titles-name{
+    width: 31%;
+    text-align: center;
+    font-weight: bold;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.titles{
+    width: 23%;
+    text-align: center;
+    font-weight: bold;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.lower-table{
+    background-color: #3C5045;
+    color: white;
+}
+
+.squad-name{
+    width: 31%;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 12px;
+}
+
+.squad{
+    width: 23%;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 12px;
+}
+
+.squad-pic{
+    width: 23%;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 9px;
+}
